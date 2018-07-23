@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rpmcdonald77/friendfinder.git"
+  },
+  "author": "Ryan McDonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpmcdonald77/friendfinder/issues"
+  },
+  "homepage": "https://github.com/rpmcdonald77/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
